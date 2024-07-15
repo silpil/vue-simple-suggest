@@ -1,0 +1,8 @@
+@use "@picocss/pico/scss/pico" with ($theme-color: "lime");
+
+body {
+  main {
+    padding: var(--pico-spacing);
+  }
+}
+
